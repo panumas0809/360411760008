@@ -8,4 +8,3 @@ System.out.println("kiw");
     }
 }
 
-Sys
