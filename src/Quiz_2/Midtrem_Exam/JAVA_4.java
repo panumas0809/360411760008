@@ -1,8 +1,8 @@
-package lab3;
+package Quiz_2.Midtrem_Exam;
 
 import java.util.Scanner;
 
-public class quiz2 {
+public class JAVA_4 {
     public static void main(String[] args) {
         System.out.println("####### Please select product type #######");
         Scanner input = new Scanner(System.in);
@@ -47,5 +47,3 @@ public class quiz2 {
 
     }//Main
 }//class
-
-
