@@ -1,5 +1,7 @@
 package lab5;
 
+import lab7.Employee;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -37,7 +39,7 @@ public class ex3 {
 
     }//showData
 
-    private static int[][] inputData(int[][] num) {
+    public static int[][] inputData(int [][] num) {
         Scanner sc = new Scanner(System.in);
         for (int i = 0; i < num.length; i++) {
             for (int j = 0; j < num[i].length; j++) {
